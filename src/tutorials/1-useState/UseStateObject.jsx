@@ -1,0 +1,5 @@
+export function UseStateObject() {
+  return (
+    <></>
+  )
+}
