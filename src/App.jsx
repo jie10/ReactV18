@@ -1,3 +1,4 @@
+import Setup from "./tutorials/2-useEffect/UseEffectFetchData"
 import "./App.css"
 
 const data = [
@@ -9,7 +10,9 @@ const data = [
 
 function App() {
   return (
-    <div></div>
+    <div className="container">
+      <Setup/>
+    </div>
   )
 }
 
